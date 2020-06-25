@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box:
+}
+body {
+  magin: 0;
+  fontfamily: sans-serif;
+}
+header, footer {
+  background-color: black;
+  color: white;
+  padding: 25px 100px;
+}
+h2 {
+  color: #E06445
+}
+li {
+    display: inline;
+}
+img {
+  width: 50%;
+  /* this makes the image as big as the container */
+}
