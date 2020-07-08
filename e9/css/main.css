@@ -8,8 +8,8 @@ margins: 0;
   width: 800px auto;
 }
 .red {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   background-color: red;
   float: left;
 }

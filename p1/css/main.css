@@ -33,13 +33,12 @@ li {
     display: inline;
     margin: 100px;
 }
-
 img.logo {
   width: 17%;
   padding: 25px
 }
 img {
-  width: 50%;
+  width: 30%;
   /* this makes the image as big as the container */
 }
 .center {

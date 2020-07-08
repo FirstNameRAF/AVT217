@@ -1,0 +1,12 @@
+body{
+  background-color: salmon;
+  margin: 0;
+}
+
+
+
+@meia screen and (max-width: 1500px) {
+  body {
+    background-color: dodgerblue;
+  }
+}

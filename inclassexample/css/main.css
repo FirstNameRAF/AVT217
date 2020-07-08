@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+body {
+margins: 0;
+}
+main {
+  display: flow-root;
+}
+.square {
+  width: 100px;
+  height: 100px;
+  margin: 0 25px;
+  float: left;
+  background-color: purple;
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
+.squaretogether {
+  width: 225px;
+  height: 100px;
+  margin: 0 25px;
+  float: left;
+  background-color: purple;
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
