@@ -39,6 +39,7 @@ img.logo {
 }
 img {
   width: 30%;
+  padding: 20px;
   /* this makes the image as big as the container */
 }
 .center {
