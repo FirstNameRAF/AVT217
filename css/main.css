@@ -1,0 +1,29 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+html {
+  font-size: 20px;
+}
+header {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: DimGray;
+}
+body {
+  background-color: DimGray;
+  color: AliceBlue;
+}
+
+main {
+width: 75vw;
+margin: 25px auto;
+background-color: DimGray;
+display: flow-root;
+}
+.column {
+  width: 50%;
+  background-color: DimGray;
+  float: left;
+}
