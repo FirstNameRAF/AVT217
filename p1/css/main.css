@@ -7,9 +7,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 header, footer {
-  background-color: #b3b3b3;
+
   color: black;
   padding: 20px 100px;
+  border-bottom: 5px solid black;
 }
 p {
   display: flex;
@@ -31,7 +32,7 @@ h2 {
 }
 li {
     display: inline;
-    margin: 100px;
+    margin: 150px;
 }
 img.logo {
   width: 17%;
@@ -91,4 +92,15 @@ img {
 .button2 a:hover, .button a:active {
   background-color: gray;
   color: white;
+}
+
+.social {
+  float: right;
+}
+
+hr {
+  height: 5px;
+  border-radius: 15px;
+  background-color: black;
+  margin-top: 20px;
 }

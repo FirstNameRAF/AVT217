@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  float: left;
+  padding: 3vh;
+
+}
+.body {
+  padding: 10vh;
+}
